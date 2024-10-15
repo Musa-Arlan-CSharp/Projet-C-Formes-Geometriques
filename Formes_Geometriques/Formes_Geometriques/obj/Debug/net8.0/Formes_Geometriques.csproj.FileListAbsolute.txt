@@ -1,0 +1,14 @@
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\bin\Debug\net8.0\Formes_Geometriques.exe
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\bin\Debug\net8.0\Formes_Geometriques.deps.json
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\bin\Debug\net8.0\Formes_Geometriques.runtimeconfig.json
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\bin\Debug\net8.0\Formes_Geometriques.dll
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\bin\Debug\net8.0\Formes_Geometriques.pdb
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\Formes_Geometriques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\Formes_Geometriques.AssemblyInfoInputs.cache
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\Formes_Geometriques.AssemblyInfo.cs
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\Formes_Geometriques.csproj.CoreCompileInputs.cache
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\Formes_Geometriques.dll
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\refint\Formes_Geometriques.dll
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\Formes_Geometriques.pdb
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\Formes_Geometriques.genruntimeconfig.cache
+C:\Users\marsl\source\repos\Formes_Geometriques\Formes_Geometriques\obj\Debug\net8.0\ref\Formes_Geometriques.dll
